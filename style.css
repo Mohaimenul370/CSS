@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(99, 71, 169);
+}
+#head{
+    background-color: yellow;
+}
+.one{
+    background-color: maroon;
+    color: lawngreen;
+}
